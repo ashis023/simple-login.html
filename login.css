@@ -1,0 +1,62 @@
+body{
+    background-color: #92A8D1;
+}
+.signup-box{
+    margin: auto;
+    width: 360px;
+    height: 550px;
+    background-color: white;
+    border: 3px;
+    border-radius: 6px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+
+}
+h3{
+    text-align: center;
+    font-family: inherit;
+}
+form{
+    width: 300px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+form label{
+    cursor: pointer;
+    display: flex;
+    margin-top: 15px;
+    font-size: medium;
+}form input{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border: 1px solid gray;
+    background-color: lightgrey;
+    border-radius: 5px;
+    outline: none;
+}
+input[type="button"]{
+    border-radius: 10px;
+    width: 320px;
+    height: 25px;
+    margin-top: 20px;
+    border: none;
+   background-color: rgb(50, 232, 172);
+   cursor: pointer;
+   color: white;
+}
+p{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 14px;
+}
+.para-2{
+    text-align: center;
+    color: white;
+    margin-top: -1px;
+}
+.para-2 a{
+    color: rgb(50, 232, 172);
+}
